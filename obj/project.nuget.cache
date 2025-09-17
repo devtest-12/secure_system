@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yBkcb/+KLIw=",
+  "success": true,
+  "projectFilePath": "/home/gurdev/repos/Scoops2GoAPI/Scoops2GoAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/gurdev/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/home/gurdev/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/gurdev/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

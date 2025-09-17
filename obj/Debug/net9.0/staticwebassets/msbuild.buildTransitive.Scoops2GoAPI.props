@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Scoops2GoAPI.props" />
+</Project>
