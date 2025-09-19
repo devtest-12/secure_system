@@ -31,3 +31,4 @@
 /home/gurdev/repos/Scoops2GoAPI/obj/Debug/net9.0/Scoops2GoAPI.pdb
 /home/gurdev/repos/Scoops2GoAPI/obj/Debug/net9.0/Scoops2GoAPI.genruntimeconfig.cache
 /home/gurdev/repos/Scoops2GoAPI/obj/Debug/net9.0/ref/Scoops2GoAPI.dll
+/home/gurdev/repos/Scoops2GoAPI/obj/Debug/net9.0/Scoops2GoAPI.sourcelink.json

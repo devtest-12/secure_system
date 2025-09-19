@@ -2,18 +2,22 @@
 
 A secure REST API prototype for Scoops2Go, developed as part of the **Secure System Development** assessment (1CWK100).
 
-This project aims to demonstrate secure software development practices, including security by design, threat modelling, secure coding, manual code reviews, and continuous integration with security testing.
+This project demonstrates the secure software development lifecycle (SSDLC):
+- Security Requirements
+- Threat Modelling
+- Secure Coding
+- Manual Code Review
+- Security Testing via CI
+- Team Collaboration using GitHub Flow
 
 ---
 
 ## 👥 Team Members
 
-| Name     | Role                 | Responsibilities                              |
-|----------|----------------------|-----------------------------------------------|
-| User1    | Lead Developer        | Core API development, authentication system   |
-| User2    | Security Reviewer     | Code reviews, threat modelling, documentation |
-
-*(Add more members if your team is bigger)*
+| Name  | Roles                     | Responsibilities                                      |
+|-------|-----------------------------|----------------------------------------------------------|
+| devtest | Developer, DevSecOps         | API development, authentication, CI/CD setup, security fixes |
+| wh           | Reviewer, Security Analyst, Documentation Lead | Code review, threat model, security analysis, documentation |
 
 ---
 
@@ -21,22 +25,15 @@ This project aims to demonstrate secure software development practices, includin
 - **Language:** C# (.NET 9.0)
 - **Framework:** ASP.NET Core Web API
 - **Version Control:** Git + GitHub (GitHub Flow)
-- **Testing:** xUnit
+- **Testing:** xUnit (basic), CI pipeline
 - **CI/CD:** GitHub Actions
 
 ---
 
 ## 🚀 Getting Started
-
-### Prerequisites
-- .NET SDK 9.0
-- ASP.NET Core Runtime 9.0
-- Git
-
-### Setup
 ```bash
-git clone https://github.com/<your-team>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/devtest-12/secure_system/Scoops2GoAPI.git
+cd Scoops2GoAPI
 dotnet build
 dotnet run
 

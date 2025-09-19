@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Scoops2GoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+454e3b00e96fd658842bd495fd8cde8dbe869864")]
 [assembly: System.Reflection.AssemblyProductAttribute("Scoops2GoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Scoops2GoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
