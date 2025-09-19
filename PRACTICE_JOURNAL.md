@@ -1,7 +1,7 @@
 # Practice Journal – Scoops2Go API
 **Module:** 1CWK100 Secure System Development  
 **Project:** Scoops2Go Secure API  
-**Team Members:** Gurdev (Developer & DevSecOps), wh (Reviewer & Security Analyst)
+**Team Members:** DevTest (Developer & DevSecOps), wh (Reviewer & Security Analyst)
 
 ---
 
@@ -67,13 +67,13 @@
 
 | Week | Summary | Contributor(s) | Evidence |
 |------|----------|-------------|--------------|
-| 1 | Environment setup (.NET, Git), sample API working | Gurdev | 1.png, 2.png |
-| 2 | GitHub repo + branch/PR workflow | Gurdev + wh | 3–6.png |
-| 3 | Security requirements documented | Gurdev (wrote), wh (reviewed) | 7–9.png |
-| 4 | Threat modelling (diagram + STRIDE) | Gurdev (made), wh (reviewed) | 10–11.png |
-| 5 | Implemented API (secure coding) | Gurdev | 12.png |
-| 6 | Manual security code review | Gurdev (review), wh (approved) | 13.png |
-| 7 | CI pipeline for build + security scan | Gurdev (DevSecOps), wh (verified) | 14–17.png |
+| 1 | Environment setup (.NET, Git), sample API working | DevTest | 1.png, 2.png |
+| 2 | GitHub repo + branch/PR workflow | DevTest + wh | 3–6.png |
+| 3 | Security requirements documented | DevTest (wrote), wh (reviewed) | 7–9.png |
+| 4 | Threat modelling (diagram + STRIDE) | DevTest (made), wh (reviewed) | 10–11.png |
+| 5 | Implemented API (secure coding) | DevTest | 12.png |
+| 6 | Manual security code review | DevTest (review), wh (approved) | 13.png |
+| 7 | CI pipeline for build + security scan | DevTest (DevSecOps), wh (verified) | 14–17.png |
 
 ---
 
